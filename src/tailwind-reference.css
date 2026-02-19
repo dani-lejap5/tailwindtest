@@ -95,7 +95,9 @@
 
 .border-none   { border: none; }
 .rounded       { border-radius: 0.25rem; }   /* 4px */
-.rounded-lg    { border-radius: 0.5rem; }    /* 8px */
+.rounded-lg    { border-radius: 0.5rem; }  
+.rounded-xl    { border-radius: 0.75rem; }    /* 8px */
+  /* 8px */
 .rounded-full  { border-radius: 9999px; }    /* pill shape */
 
 
